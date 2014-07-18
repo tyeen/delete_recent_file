@@ -6,7 +6,7 @@ this tool may help you.
 
 ## Installation
 
-You can download the Delete Recent File.alfredworkflow and import to Alfred 2.
+You can download the [Delete Recent File.alfredworkflow](https://github.com/tyeen/delete_recent_file/raw/master/Delete%20Recent%20Files.alfredworkflow) and import to Alfred 2.
 
 Or you can `git clone` or download this repository.
 
