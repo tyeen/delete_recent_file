@@ -16,15 +16,18 @@ Or you can `git clone` or download this repository.
 
 A list of apps which is keeping its own recent files is shown.
 
+![](https://raw.githubusercontent.com/tyeen/delete_recent_file/master/screenshot/trigger.png)
+
 ### 2. Type the application name .
 After typing the trigger keyword, you have to **input the app name** whose recent file list you want to clear.
 I know this is annoying, but I can't find way to auto-complete the app name by invoking Alfred's API.
 I tried to do some fuzzy matching and hope it can make this step easier.
 
+![](https://raw.githubusercontent.com/tyeen/delete_recent_file/master/screenshot/application_selection.png)
+
 ### 3. Select the item that you want to clear.
 The last step is simple. You just select a item which you want to delete. Or if you prefer typing,
 you can continue hitting keyboard just like step 2.
 
-
-
 After the deletion, a notification will pop up to let you know things are done.
+![](https://raw.githubusercontent.com/tyeen/delete_recent_file/master/screenshot/finish_notification.png)
