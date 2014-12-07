@@ -117,7 +117,7 @@ def find_target_item(user_input):
             max_ratio = 0
             target = ''
             for app_item in app_items:
-                s = SequenceMatcher(None, app_item.app_name, inputs[0])
+                s = SequenceMatcher(None, app_item.app_name.lower(), inputs[0].lower())
                 r = s.ratio()
                 if r > max_ratio:
                     max_ratio = r
