@@ -1,3 +1,5 @@
+## OS X El Capitan changed the "Recent File List" mechanism. This workflow is not working on El Capitan.
+
 # Alfred 2 workflow Delete Recent File
 
 Recent file list is a convenience function that let you open files quickly.
